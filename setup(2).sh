@@ -573,8 +573,7 @@ Ao fim das tres fontes sobra um unico codigo: o assassino.
 Nao precisa de comando exotico — `grep`, `sort` e `uniq`,
 bem usados, dao conta de filtrar e conferir cada passo.
 
-A proxima tranca tem a senha na primeira postagem do
-Instagram @ceuratos.
+
 EOF
 ( cd "$TMP" && zip -q -P tenis tranca_um.zip orientacao_de_cruzamento.txt )
 mv "$TMP/tranca_um.zip" campus/predio_da_eletrica/almoxarifado/tranca_um.zip
