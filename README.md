@@ -44,7 +44,7 @@ o caso inteiro.
 
 Investigue cada uma com `man <comando>` (saia com `q`):
 
-    ls   cd   cat   head   tail   wc   sort   uniq   grep   find   unzip
+    ls   cd   cat   head   tail   wc   sort   uniq   grep   find   unzip   xdg-open imagem.png
 
 Este caso se resolve afunilando: cada pista descarta
 suspeitos, ate sobrar um. `grep` e `sort` bem usados fazem
