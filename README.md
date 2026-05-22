@@ -1,4 +1,4 @@
-Assassinato na POLI-USP
+Assassinato na POLI
 =======================
 
          _________________________
