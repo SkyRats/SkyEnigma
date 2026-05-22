@@ -1,0 +1,19 @@
+CONTROLE ACADEMICO OFICIAL - POLI-USP
+--------------------------------------
+Curso de cada matricula. Documento oficial: vale mais que a
+declaracao do proprio suspeito.
+
+matricula   curso
+---------   --------------------------
+40118       engenharia da computacao
+40231       engenharia da computacao
+40347       engenharia da computacao
+50412       engenharia mecanica
+40559       engenharia da computacao
+60688       engenharia civil
+40703       engenharia da computacao
+40815       engenharia da computacao
+
+Nota da secretaria: duas matriculas acima NAO sao de Eng.
+Computacao, apesar de seus donos as vezes se dizerem "da
+computacao". O papel oficial nao mente.

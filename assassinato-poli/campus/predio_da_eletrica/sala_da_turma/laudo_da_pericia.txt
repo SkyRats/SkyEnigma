@@ -1,0 +1,51 @@
+LAUDO DA PERICIA - SALA DA TURMA DE ENG. COMPUTACAO
+====================================================
+
+Houve luta. O assassino saiu as pressas. Tres fontes de prova, cruzadas entre si, isolam uma unica
+pessoa entre os oito suspeitos fichados.
+
+ATENCAO: nenhuma das tres fontes abaixo, sozinha, aponta um
+culpado. Varias pessoas batem com uma ou duas. So quem
+sobrevive as TRES e o assassino. E preciso cruzar.
+
+-------------------------------------------------------------
+FONTE 1 - DESCRICAO FISICA (das testemunhas)
+Tres testemunhas, ouvidas separadamente, viram quem fugiu.
+O retrato falado combinado: pessoa de oculos presos por
+cordao no pescoco, com bigode, e de aparencia muito cuidada,
+do tipo vaidoso e bem vestido.
+As fichas dos suspeitos trazem essas caracteristicas em texto.
+Cuidado: "barba" nao e "bigode"; quem so tem barba nao bate.
+Cuidado: quem fez cirurgia e nao usa mais oculos nao bate.
+
+FONTE 2 - TURMA DO CATATAU
+O assassino e da PROPRIA turma do Catatau, Eng. Computacao.
+Existe um mapa de cadeiras da turma. CUIDADO: ha suspeito que
+mente o proprio curso. Confirme cada nome da turma cruzando o
+mapa de cadeiras com o controle academico oficial. So vale
+quem o documento oficial confirma como sendo da computacao.
+
+FONTE 3 - JANELA DO CRIME
+O crime ocorreu entre 18h50 e 19h10. O log da catraca registra
+entrada e saida de cada matricula no predio. So interessa quem
+ESTAVA DENTRO durante essa janela inteira: entrou antes de
+18h50 e saiu depois de 19h10. Quem entrou e saiu fora dessa
+janela nao e suspeito — inclusive quem tinha treino ou outro
+compromisso na hora.
+
+-------------------------------------------------------------
+COMO O CASO SE RESOLVE
+
+As fichas usam codigos (SUSPEITO-01 a SUSPEITO-08), nunca
+nomes. Algumas listas oficiais usam codigo; outras usam o
+NUMERO DE MATRICULA. Existe um documento que liga codigo,
+matricula e nome — mas esse esta trancado.
+
+O caminho: a cada fonte, descarte os codigos que nao batem.
+Comece pelas fichas, va eliminando, confira na fonte seguinte.
+Quando so um codigo sobreviver as tres fontes, voce achou o
+assassino — em codigo. Use entao a tabela trancada para
+revelar o nome verdadeiro.
+
+Documentos oficiais (catraca, controle academico) valem mais
+que o que um suspeito declara sobre si mesmo.

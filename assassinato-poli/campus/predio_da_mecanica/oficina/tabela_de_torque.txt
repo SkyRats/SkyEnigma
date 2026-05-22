@@ -1,0 +1,14 @@
+TABELA DE TORQUE DA OFICINA
+----------------------------
+(nome de papelada chata, de proposito)
+
+Recado da pericia escondido aqui:
+
+A ultima tranca guarda os NOMES verdadeiros dos suspeitos.
+A senha dela e um numero por extenso, em minusculo.
+
+Esse numero e a quantidade de matriculas que, segundo o LOG
+DA CATRACA, estiveram dentro do predio durante a janela
+inteira do crime (entrou antes de 18h50 e saiu depois de
+19h10). Conte com cuidado, comparando entrada e saida linha
+a linha. Escreva o numero por extenso.

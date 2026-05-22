@@ -1,0 +1,16 @@
+TABELA CODIGO x MATRICULA  (controle academico - parte publica)
+----------------------------------------------------------------
+Esta tabela liga cada CODIGO de suspeito ao numero de
+matricula. O NOME verdadeiro do aluno NAO esta aqui: nomes
+ficam no documento trancado.
+
+codigo        matricula
+-----------   ---------
+SUSPEITO-01   40118
+SUSPEITO-02   40231
+SUSPEITO-03   40347
+SUSPEITO-04   50412
+SUSPEITO-05   40559
+SUSPEITO-06   60688
+SUSPEITO-07   40703
+SUSPEITO-08   40815

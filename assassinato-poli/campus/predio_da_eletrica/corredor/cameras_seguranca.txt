@@ -1,0 +1,477 @@
+REGISTRO DAS CAMERAS DE SEGURANCA - PREDIO DA ELETRICA
+=======================================================
+Transcricao quadro a quadro. Documento longo.
+
+quadro 0001  | corredor vazio, sem movimento relevante
+quadro 0002  | corredor vazio, sem movimento relevante
+quadro 0003  | corredor vazio, sem movimento relevante
+quadro 0004  | corredor vazio, sem movimento relevante
+quadro 0005  | corredor vazio, sem movimento relevante
+quadro 0006  | corredor vazio, sem movimento relevante
+quadro 0007  | corredor vazio, sem movimento relevante
+quadro 0008  | corredor vazio, sem movimento relevante
+quadro 0009  | corredor vazio, sem movimento relevante
+quadro 0010  | corredor vazio, sem movimento relevante
+quadro 0011  | corredor vazio, sem movimento relevante
+quadro 0012  | corredor vazio, sem movimento relevante
+quadro 0013  | corredor vazio, sem movimento relevante
+quadro 0014  | corredor vazio, sem movimento relevante
+quadro 0015  | corredor vazio, sem movimento relevante
+quadro 0016  | corredor vazio, sem movimento relevante
+quadro 0017  | corredor vazio, sem movimento relevante
+quadro 0018  | corredor vazio, sem movimento relevante
+quadro 0019  | corredor vazio, sem movimento relevante
+quadro 0020  | corredor vazio, sem movimento relevante
+quadro 0021  | corredor vazio, sem movimento relevante
+quadro 0022  | corredor vazio, sem movimento relevante
+quadro 0023  | corredor vazio, sem movimento relevante
+quadro 0024  | corredor vazio, sem movimento relevante
+quadro 0025  | corredor vazio, sem movimento relevante
+quadro 0026  | corredor vazio, sem movimento relevante
+quadro 0027  | corredor vazio, sem movimento relevante
+quadro 0028  | corredor vazio, sem movimento relevante
+quadro 0029  | corredor vazio, sem movimento relevante
+quadro 0030  | corredor vazio, sem movimento relevante
+quadro 0031  | corredor vazio, sem movimento relevante
+quadro 0032  | corredor vazio, sem movimento relevante
+quadro 0033  | corredor vazio, sem movimento relevante
+quadro 0034  | corredor vazio, sem movimento relevante
+quadro 0035  | corredor vazio, sem movimento relevante
+quadro 0036  | corredor vazio, sem movimento relevante
+quadro 0037  | corredor vazio, sem movimento relevante
+quadro 0038  | corredor vazio, sem movimento relevante
+quadro 0039  | corredor vazio, sem movimento relevante
+quadro 0040  | corredor vazio, sem movimento relevante
+quadro 0041  | corredor vazio, sem movimento relevante
+quadro 0042  | corredor vazio, sem movimento relevante
+quadro 0043  | corredor vazio, sem movimento relevante
+quadro 0044  | corredor vazio, sem movimento relevante
+quadro 0045  | corredor vazio, sem movimento relevante
+quadro 0046  | corredor vazio, sem movimento relevante
+quadro 0047  | corredor vazio, sem movimento relevante
+quadro 0048  | corredor vazio, sem movimento relevante
+quadro 0049  | corredor vazio, sem movimento relevante
+quadro 0050  | corredor vazio, sem movimento relevante
+quadro 0051  | corredor vazio, sem movimento relevante
+quadro 0052  | corredor vazio, sem movimento relevante
+quadro 0053  | corredor vazio, sem movimento relevante
+quadro 0054  | corredor vazio, sem movimento relevante
+quadro 0055  | corredor vazio, sem movimento relevante
+quadro 0056  | corredor vazio, sem movimento relevante
+quadro 0057  | corredor vazio, sem movimento relevante
+quadro 0058  | corredor vazio, sem movimento relevante
+quadro 0059  | corredor vazio, sem movimento relevante
+quadro 0060  | corredor vazio, sem movimento relevante
+quadro 0061  | corredor vazio, sem movimento relevante
+quadro 0062  | corredor vazio, sem movimento relevante
+quadro 0063  | corredor vazio, sem movimento relevante
+quadro 0064  | corredor vazio, sem movimento relevante
+quadro 0065  | corredor vazio, sem movimento relevante
+quadro 0066  | corredor vazio, sem movimento relevante
+quadro 0067  | corredor vazio, sem movimento relevante
+quadro 0068  | corredor vazio, sem movimento relevante
+quadro 0069  | corredor vazio, sem movimento relevante
+quadro 0070  | corredor vazio, sem movimento relevante
+quadro 0071  | corredor vazio, sem movimento relevante
+quadro 0072  | corredor vazio, sem movimento relevante
+quadro 0073  | corredor vazio, sem movimento relevante
+quadro 0074  | corredor vazio, sem movimento relevante
+quadro 0075  | corredor vazio, sem movimento relevante
+quadro 0076  | corredor vazio, sem movimento relevante
+quadro 0077  | corredor vazio, sem movimento relevante
+quadro 0078  | corredor vazio, sem movimento relevante
+quadro 0079  | corredor vazio, sem movimento relevante
+quadro 0080  | corredor vazio, sem movimento relevante
+quadro 0081  | corredor vazio, sem movimento relevante
+quadro 0082  | corredor vazio, sem movimento relevante
+quadro 0083  | corredor vazio, sem movimento relevante
+quadro 0084  | corredor vazio, sem movimento relevante
+quadro 0085  | corredor vazio, sem movimento relevante
+quadro 0086  | corredor vazio, sem movimento relevante
+quadro 0087  | corredor vazio, sem movimento relevante
+quadro 0088  | corredor vazio, sem movimento relevante
+quadro 0089  | corredor vazio, sem movimento relevante
+quadro 0090  | corredor vazio, sem movimento relevante
+quadro 0091  | corredor vazio, sem movimento relevante
+quadro 0092  | corredor vazio, sem movimento relevante
+quadro 0093  | corredor vazio, sem movimento relevante
+quadro 0094  | corredor vazio, sem movimento relevante
+quadro 0095  | corredor vazio, sem movimento relevante
+quadro 0096  | corredor vazio, sem movimento relevante
+quadro 0097  | corredor vazio, sem movimento relevante
+quadro 0098  | corredor vazio, sem movimento relevante
+quadro 0099  | corredor vazio, sem movimento relevante
+quadro 0100  | corredor vazio, sem movimento relevante
+quadro 0101  | corredor vazio, sem movimento relevante
+quadro 0102  | corredor vazio, sem movimento relevante
+quadro 0103  | corredor vazio, sem movimento relevante
+quadro 0104  | corredor vazio, sem movimento relevante
+quadro 0105  | corredor vazio, sem movimento relevante
+quadro 0106  | corredor vazio, sem movimento relevante
+quadro 0107  | corredor vazio, sem movimento relevante
+quadro 0108  | corredor vazio, sem movimento relevante
+quadro 0109  | corredor vazio, sem movimento relevante
+quadro 0110  | corredor vazio, sem movimento relevante
+quadro 0111  | corredor vazio, sem movimento relevante
+quadro 0112  | corredor vazio, sem movimento relevante
+quadro 0113  | corredor vazio, sem movimento relevante
+quadro 0114  | corredor vazio, sem movimento relevante
+quadro 0115  | corredor vazio, sem movimento relevante
+quadro 0116  | corredor vazio, sem movimento relevante
+quadro 0117  | corredor vazio, sem movimento relevante
+quadro 0118  | corredor vazio, sem movimento relevante
+quadro 0119  | corredor vazio, sem movimento relevante
+quadro 0120  | corredor vazio, sem movimento relevante
+quadro 0121  | corredor vazio, sem movimento relevante
+quadro 0122  | corredor vazio, sem movimento relevante
+quadro 0123  | corredor vazio, sem movimento relevante
+quadro 0124  | corredor vazio, sem movimento relevante
+quadro 0125  | corredor vazio, sem movimento relevante
+quadro 0126  | corredor vazio, sem movimento relevante
+quadro 0127  | corredor vazio, sem movimento relevante
+quadro 0128  | corredor vazio, sem movimento relevante
+quadro 0129  | corredor vazio, sem movimento relevante
+quadro 0130  | corredor vazio, sem movimento relevante
+quadro 0131  | corredor vazio, sem movimento relevante
+quadro 0132  | corredor vazio, sem movimento relevante
+quadro 0133  | corredor vazio, sem movimento relevante
+quadro 0134  | corredor vazio, sem movimento relevante
+quadro 0135  | corredor vazio, sem movimento relevante
+quadro 0136  | corredor vazio, sem movimento relevante
+quadro 0137  | corredor vazio, sem movimento relevante
+quadro 0138  | corredor vazio, sem movimento relevante
+quadro 0139  | corredor vazio, sem movimento relevante
+quadro 0140  | corredor vazio, sem movimento relevante
+quadro 0141  | corredor vazio, sem movimento relevante
+quadro 0142  | corredor vazio, sem movimento relevante
+quadro 0143  | corredor vazio, sem movimento relevante
+quadro 0144  | corredor vazio, sem movimento relevante
+quadro 0145  | corredor vazio, sem movimento relevante
+quadro 0146  | corredor vazio, sem movimento relevante
+quadro 0147  | corredor vazio, sem movimento relevante
+quadro 0148  | corredor vazio, sem movimento relevante
+quadro 0149  | corredor vazio, sem movimento relevante
+quadro 0150  | corredor vazio, sem movimento relevante
+quadro 0151  | corredor vazio, sem movimento relevante
+quadro 0152  | corredor vazio, sem movimento relevante
+quadro 0153  | corredor vazio, sem movimento relevante
+quadro 0154  | corredor vazio, sem movimento relevante
+quadro 0155  | corredor vazio, sem movimento relevante
+quadro 0156  | corredor vazio, sem movimento relevante
+quadro 0157  | corredor vazio, sem movimento relevante
+quadro 0158  | corredor vazio, sem movimento relevante
+quadro 0159  | corredor vazio, sem movimento relevante
+quadro 0160  | corredor vazio, sem movimento relevante
+quadro 0161  | corredor vazio, sem movimento relevante
+quadro 0162  | corredor vazio, sem movimento relevante
+quadro 0163  | corredor vazio, sem movimento relevante
+quadro 0164  | corredor vazio, sem movimento relevante
+quadro 0165  | corredor vazio, sem movimento relevante
+quadro 0166  | corredor vazio, sem movimento relevante
+quadro 0167  | corredor vazio, sem movimento relevante
+quadro 0168  | corredor vazio, sem movimento relevante
+quadro 0169  | corredor vazio, sem movimento relevante
+quadro 0170  | corredor vazio, sem movimento relevante
+quadro 0171  | corredor vazio, sem movimento relevante
+quadro 0172  | corredor vazio, sem movimento relevante
+quadro 0173  | corredor vazio, sem movimento relevante
+quadro 0174  | corredor vazio, sem movimento relevante
+quadro 0175  | corredor vazio, sem movimento relevante
+quadro 0176  | corredor vazio, sem movimento relevante
+quadro 0177  | corredor vazio, sem movimento relevante
+quadro 0178  | corredor vazio, sem movimento relevante
+quadro 0179  | corredor vazio, sem movimento relevante
+quadro 0180  | corredor vazio, sem movimento relevante
+quadro 0181  | corredor vazio, sem movimento relevante
+quadro 0182  | corredor vazio, sem movimento relevante
+quadro 0183  | corredor vazio, sem movimento relevante
+quadro 0184  | corredor vazio, sem movimento relevante
+quadro 0185  | corredor vazio, sem movimento relevante
+quadro 0186  | corredor vazio, sem movimento relevante
+quadro 0187  | corredor vazio, sem movimento relevante
+quadro 0188  | corredor vazio, sem movimento relevante
+quadro 0189  | corredor vazio, sem movimento relevante
+quadro 0190  | corredor vazio, sem movimento relevante
+quadro 0191  | corredor vazio, sem movimento relevante
+quadro 0192  | corredor vazio, sem movimento relevante
+quadro 0193  | corredor vazio, sem movimento relevante
+quadro 0194  | corredor vazio, sem movimento relevante
+quadro 0195  | corredor vazio, sem movimento relevante
+quadro 0196  | corredor vazio, sem movimento relevante
+quadro 0197  | corredor vazio, sem movimento relevante
+quadro 0198  | corredor vazio, sem movimento relevante
+quadro 0199  | corredor vazio, sem movimento relevante
+quadro 0200  | corredor vazio, sem movimento relevante
+quadro 0201  | corredor vazio, sem movimento relevante
+quadro 0202  | corredor vazio, sem movimento relevante
+quadro 0203  | corredor vazio, sem movimento relevante
+quadro 0204  | corredor vazio, sem movimento relevante
+quadro 0205  | corredor vazio, sem movimento relevante
+quadro 0206  | corredor vazio, sem movimento relevante
+quadro 0207  | corredor vazio, sem movimento relevante
+quadro 0208  | corredor vazio, sem movimento relevante
+quadro 0209  | corredor vazio, sem movimento relevante
+quadro 0210  | corredor vazio, sem movimento relevante
+quadro 0211  | corredor vazio, sem movimento relevante
+quadro 0212  | corredor vazio, sem movimento relevante
+quadro 0213  | corredor vazio, sem movimento relevante
+quadro 0214  | corredor vazio, sem movimento relevante
+quadro 0215  | corredor vazio, sem movimento relevante
+quadro 0216  | corredor vazio, sem movimento relevante
+quadro 0217  | corredor vazio, sem movimento relevante
+quadro 0218  | corredor vazio, sem movimento relevante
+quadro 0219  | corredor vazio, sem movimento relevante
+quadro 0220  | corredor vazio, sem movimento relevante
+quadro 0221  | corredor vazio, sem movimento relevante
+quadro 0222  | corredor vazio, sem movimento relevante
+quadro 0223  | corredor vazio, sem movimento relevante
+quadro 0224  | corredor vazio, sem movimento relevante
+quadro 0225  | corredor vazio, sem movimento relevante
+quadro 0226  | corredor vazio, sem movimento relevante
+quadro 0227  | corredor vazio, sem movimento relevante
+quadro 0228  | corredor vazio, sem movimento relevante
+quadro 0229  | corredor vazio, sem movimento relevante
+quadro 0230  | corredor vazio, sem movimento relevante
+quadro 0231  | corredor vazio, sem movimento relevante
+quadro 0232  | corredor vazio, sem movimento relevante
+quadro 0233  | corredor vazio, sem movimento relevante
+quadro 0234  | corredor vazio, sem movimento relevante
+quadro 0235  | corredor vazio, sem movimento relevante
+quadro 0236  | corredor vazio, sem movimento relevante
+quadro 0237  | corredor vazio, sem movimento relevante
+quadro 0238  | corredor vazio, sem movimento relevante
+quadro 0239  | corredor vazio, sem movimento relevante
+quadro 0240  | corredor vazio, sem movimento relevante
+quadro 0241  | corredor vazio, sem movimento relevante
+quadro 0242  | corredor vazio, sem movimento relevante
+quadro 0243  | corredor vazio, sem movimento relevante
+quadro 0244  | corredor vazio, sem movimento relevante
+quadro 0245  | corredor vazio, sem movimento relevante
+quadro 0246  | corredor vazio, sem movimento relevante
+quadro 0247  | corredor vazio, sem movimento relevante
+quadro 0248  | corredor vazio, sem movimento relevante
+quadro 0249  | corredor vazio, sem movimento relevante
+quadro 0250  | corredor vazio, sem movimento relevante
+quadro 0251  | corredor vazio, sem movimento relevante
+quadro 0252  | corredor vazio, sem movimento relevante
+quadro 0253  | corredor vazio, sem movimento relevante
+quadro 0254  | corredor vazio, sem movimento relevante
+quadro 0255  | corredor vazio, sem movimento relevante
+quadro 0256  | corredor vazio, sem movimento relevante
+quadro 0257  | corredor vazio, sem movimento relevante
+quadro 0258  | corredor vazio, sem movimento relevante
+quadro 0259  | corredor vazio, sem movimento relevante
+quadro 0260  | corredor vazio, sem movimento relevante
+quadro 0261  | corredor vazio, sem movimento relevante
+quadro 0262  | corredor vazio, sem movimento relevante
+quadro 0263  | corredor vazio, sem movimento relevante
+quadro 0264  | corredor vazio, sem movimento relevante
+quadro 0265  | corredor vazio, sem movimento relevante
+quadro 0266  | corredor vazio, sem movimento relevante
+quadro 0267  | corredor vazio, sem movimento relevante
+quadro 0268  | corredor vazio, sem movimento relevante
+quadro 0269  | corredor vazio, sem movimento relevante
+quadro 0270  | corredor vazio, sem movimento relevante
+quadro 0271  | corredor vazio, sem movimento relevante
+quadro 0272  | corredor vazio, sem movimento relevante
+quadro 0273  | corredor vazio, sem movimento relevante
+quadro 0274  | corredor vazio, sem movimento relevante
+quadro 0275  | corredor vazio, sem movimento relevante
+quadro 0276  | corredor vazio, sem movimento relevante
+quadro 0277  | corredor vazio, sem movimento relevante
+quadro 0278  | corredor vazio, sem movimento relevante
+quadro 0279  | corredor vazio, sem movimento relevante
+quadro 0280  | corredor vazio, sem movimento relevante
+quadro 0281  | corredor vazio, sem movimento relevante
+quadro 0282  | corredor vazio, sem movimento relevante
+quadro 0283  | corredor vazio, sem movimento relevante
+quadro 0284  | corredor vazio, sem movimento relevante
+quadro 0285  | corredor vazio, sem movimento relevante
+quadro 0286  | corredor vazio, sem movimento relevante
+quadro 0287  | corredor vazio, sem movimento relevante
+quadro 0288  | corredor vazio, sem movimento relevante
+quadro 0289  | corredor vazio, sem movimento relevante
+quadro 0290  | corredor vazio, sem movimento relevante
+quadro 0291  | corredor vazio, sem movimento relevante
+quadro 0292  | corredor vazio, sem movimento relevante
+quadro 0293  | corredor vazio, sem movimento relevante
+quadro 0294  | corredor vazio, sem movimento relevante
+quadro 0295  | corredor vazio, sem movimento relevante
+quadro 0296  | corredor vazio, sem movimento relevante
+quadro 0297  | corredor vazio, sem movimento relevante
+quadro 0298  | corredor vazio, sem movimento relevante
+quadro 0299  | corredor vazio, sem movimento relevante
+quadro 0300  | corredor vazio, sem movimento relevante
+quadro 0301  | corredor vazio, sem movimento relevante
+quadro 0302  | corredor vazio, sem movimento relevante
+quadro 0303  | corredor vazio, sem movimento relevante
+quadro 0304  | corredor vazio, sem movimento relevante
+quadro 0305  | corredor vazio, sem movimento relevante
+quadro 0306  | corredor vazio, sem movimento relevante
+quadro 0307  | corredor vazio, sem movimento relevante
+quadro 0308  | corredor vazio, sem movimento relevante
+quadro 0309  | corredor vazio, sem movimento relevante
+quadro 0310  | corredor vazio, sem movimento relevante
+quadro 0311  | corredor vazio, sem movimento relevante
+quadro 0312  | corredor vazio, sem movimento relevante
+quadro 0313  | corredor vazio, sem movimento relevante
+quadro 0314  | corredor vazio, sem movimento relevante
+quadro 0315  | corredor vazio, sem movimento relevante
+quadro 0316  | corredor vazio, sem movimento relevante
+quadro 0317  | corredor vazio, sem movimento relevante
+quadro 0318  | corredor vazio, sem movimento relevante
+quadro 0319  | corredor vazio, sem movimento relevante
+quadro 0320  | corredor vazio, sem movimento relevante
+quadro 0321  | corredor vazio, sem movimento relevante
+quadro 0322  | corredor vazio, sem movimento relevante
+quadro 0323  | corredor vazio, sem movimento relevante
+quadro 0324  | corredor vazio, sem movimento relevante
+quadro 0325  | corredor vazio, sem movimento relevante
+quadro 0326  | corredor vazio, sem movimento relevante
+quadro 0327  | corredor vazio, sem movimento relevante
+quadro 0328  | corredor vazio, sem movimento relevante
+quadro 0329  | corredor vazio, sem movimento relevante
+quadro 0330  | corredor vazio, sem movimento relevante
+quadro 0331  | corredor vazio, sem movimento relevante
+quadro 0332  | corredor vazio, sem movimento relevante
+quadro 0333  | corredor vazio, sem movimento relevante
+quadro 0334  | corredor vazio, sem movimento relevante
+quadro 0335  | corredor vazio, sem movimento relevante
+quadro 0336  | corredor vazio, sem movimento relevante
+quadro 0337  | corredor vazio, sem movimento relevante
+quadro 0338  | corredor vazio, sem movimento relevante
+quadro 0339  | corredor vazio, sem movimento relevante
+quadro 0340  | corredor vazio, sem movimento relevante
+quadro 0341  | corredor vazio, sem movimento relevante
+quadro 0342  | corredor vazio, sem movimento relevante
+quadro 0343  | corredor vazio, sem movimento relevante
+quadro 0344  | corredor vazio, sem movimento relevante
+quadro 0345  | corredor vazio, sem movimento relevante
+quadro 0346  | corredor vazio, sem movimento relevante
+quadro 0347  | corredor vazio, sem movimento relevante
+quadro 0348  | corredor vazio, sem movimento relevante
+quadro 0349  | corredor vazio, sem movimento relevante
+quadro 0350  | corredor vazio, sem movimento relevante
+quadro 0351  | corredor vazio, sem movimento relevante
+quadro 0352  | corredor vazio, sem movimento relevante
+quadro 0353  | corredor vazio, sem movimento relevante
+quadro 0354  | corredor vazio, sem movimento relevante
+quadro 0355  | corredor vazio, sem movimento relevante
+quadro 0356  | corredor vazio, sem movimento relevante
+quadro 0357  | corredor vazio, sem movimento relevante
+quadro 0358  | corredor vazio, sem movimento relevante
+quadro 0359  | corredor vazio, sem movimento relevante
+quadro 0360  | corredor vazio, sem movimento relevante
+
+quadro 0361  | 19:13 - pessoa desce a escada quase correndo
+quadro 0362  | 19:13 - ajeita o cordao dos oculos no pescoco
+quadro 0363  | 19:13 - pes nitidos: a pessoa fugiu de TENIS.
+             | (nao era chinelo, nao era sapato social)
+             | ESSE CALÇADO É A SENHA DE UMA TRANCA .
+quadro 0364  | saida do predio vazia, sem movimento
+quadro 0365  | saida do predio vazia, sem movimento
+quadro 0366  | saida do predio vazia, sem movimento
+quadro 0367  | saida do predio vazia, sem movimento
+quadro 0368  | saida do predio vazia, sem movimento
+quadro 0369  | saida do predio vazia, sem movimento
+quadro 0370  | saida do predio vazia, sem movimento
+quadro 0371  | saida do predio vazia, sem movimento
+quadro 0372  | saida do predio vazia, sem movimento
+quadro 0373  | saida do predio vazia, sem movimento
+quadro 0374  | saida do predio vazia, sem movimento
+quadro 0375  | saida do predio vazia, sem movimento
+quadro 0376  | saida do predio vazia, sem movimento
+quadro 0377  | saida do predio vazia, sem movimento
+quadro 0378  | saida do predio vazia, sem movimento
+quadro 0379  | saida do predio vazia, sem movimento
+quadro 0380  | saida do predio vazia, sem movimento
+quadro 0381  | saida do predio vazia, sem movimento
+quadro 0382  | saida do predio vazia, sem movimento
+quadro 0383  | saida do predio vazia, sem movimento
+quadro 0384  | saida do predio vazia, sem movimento
+quadro 0385  | saida do predio vazia, sem movimento
+quadro 0386  | saida do predio vazia, sem movimento
+quadro 0387  | saida do predio vazia, sem movimento
+quadro 0388  | saida do predio vazia, sem movimento
+quadro 0389  | saida do predio vazia, sem movimento
+quadro 0390  | saida do predio vazia, sem movimento
+quadro 0391  | saida do predio vazia, sem movimento
+quadro 0392  | saida do predio vazia, sem movimento
+quadro 0393  | saida do predio vazia, sem movimento
+quadro 0394  | saida do predio vazia, sem movimento
+quadro 0395  | saida do predio vazia, sem movimento
+quadro 0396  | saida do predio vazia, sem movimento
+quadro 0397  | saida do predio vazia, sem movimento
+quadro 0398  | saida do predio vazia, sem movimento
+quadro 0399  | saida do predio vazia, sem movimento
+quadro 0400  | saida do predio vazia, sem movimento
+quadro 0401  | saida do predio vazia, sem movimento
+quadro 0402  | saida do predio vazia, sem movimento
+quadro 0403  | saida do predio vazia, sem movimento
+quadro 0404  | saida do predio vazia, sem movimento
+quadro 0405  | saida do predio vazia, sem movimento
+quadro 0406  | saida do predio vazia, sem movimento
+quadro 0407  | saida do predio vazia, sem movimento
+quadro 0408  | saida do predio vazia, sem movimento
+quadro 0409  | saida do predio vazia, sem movimento
+quadro 0410  | saida do predio vazia, sem movimento
+quadro 0411  | saida do predio vazia, sem movimento
+quadro 0412  | saida do predio vazia, sem movimento
+quadro 0413  | saida do predio vazia, sem movimento
+quadro 0414  | saida do predio vazia, sem movimento
+quadro 0415  | saida do predio vazia, sem movimento
+quadro 0416  | saida do predio vazia, sem movimento
+quadro 0417  | saida do predio vazia, sem movimento
+quadro 0418  | saida do predio vazia, sem movimento
+quadro 0419  | saida do predio vazia, sem movimento
+quadro 0420  | saida do predio vazia, sem movimento
+quadro 0421  | saida do predio vazia, sem movimento
+quadro 0422  | saida do predio vazia, sem movimento
+quadro 0423  | saida do predio vazia, sem movimento
+quadro 0424  | saida do predio vazia, sem movimento
+quadro 0425  | saida do predio vazia, sem movimento
+quadro 0426  | saida do predio vazia, sem movimento
+quadro 0427  | saida do predio vazia, sem movimento
+quadro 0428  | saida do predio vazia, sem movimento
+quadro 0429  | saida do predio vazia, sem movimento
+quadro 0430  | saida do predio vazia, sem movimento
+quadro 0431  | saida do predio vazia, sem movimento
+quadro 0432  | saida do predio vazia, sem movimento
+quadro 0433  | saida do predio vazia, sem movimento
+quadro 0434  | saida do predio vazia, sem movimento
+quadro 0435  | saida do predio vazia, sem movimento
+quadro 0436  | saida do predio vazia, sem movimento
+quadro 0437  | saida do predio vazia, sem movimento
+quadro 0438  | saida do predio vazia, sem movimento
+quadro 0439  | saida do predio vazia, sem movimento
+quadro 0440  | saida do predio vazia, sem movimento
+quadro 0441  | saida do predio vazia, sem movimento
+quadro 0442  | saida do predio vazia, sem movimento
+quadro 0443  | saida do predio vazia, sem movimento
+quadro 0444  | saida do predio vazia, sem movimento
+quadro 0445  | saida do predio vazia, sem movimento
+quadro 0446  | saida do predio vazia, sem movimento
+quadro 0447  | saida do predio vazia, sem movimento
+quadro 0448  | saida do predio vazia, sem movimento
+quadro 0449  | saida do predio vazia, sem movimento
+quadro 0450  | saida do predio vazia, sem movimento
+quadro 0451  | saida do predio vazia, sem movimento
+quadro 0452  | saida do predio vazia, sem movimento
+quadro 0453  | saida do predio vazia, sem movimento
+quadro 0454  | saida do predio vazia, sem movimento
+quadro 0455  | saida do predio vazia, sem movimento
+quadro 0456  | saida do predio vazia, sem movimento
+quadro 0457  | saida do predio vazia, sem movimento
+quadro 0458  | saida do predio vazia, sem movimento
+quadro 0459  | saida do predio vazia, sem movimento
+quadro 0460  | saida do predio vazia, sem movimento
+quadro 0461  | saida do predio vazia, sem movimento
+quadro 0462  | saida do predio vazia, sem movimento
+quadro 0463  | saida do predio vazia, sem movimento
+quadro 0464  | saida do predio vazia, sem movimento
+quadro 0465  | saida do predio vazia, sem movimento
+quadro 0466  | saida do predio vazia, sem movimento
+quadro 0467  | saida do predio vazia, sem movimento
+quadro 0468  | saida do predio vazia, sem movimento
+quadro 0469  | saida do predio vazia, sem movimento
+quadro 0470  | saida do predio vazia, sem movimento

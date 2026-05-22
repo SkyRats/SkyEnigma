@@ -1,0 +1,14 @@
+MAPA DE CADEIRAS - TURMA DE ENG. COMPUTACAO DO CATATAU
+-------------------------------------------------------
+Codigos com cadeira fixa NESTA turma (e portanto com cracha
+de acesso ao predio da eletrica):
+
+SUSPEITO-01
+SUSPEITO-02
+SUSPEITO-03
+SUSPEITO-05
+SUSPEITO-07
+SUSPEITO-08
+
+Quem nao esta nesta lista nao e da turma do Catatau, mesmo
+que diga ser. Confirme cruzando com o controle academico.
