@@ -55,8 +55,7 @@ todo o trabalho pesado.
 
 Ha 3 arquivos `.zip` com senha, escondidos pelo campus.
 Nenhuma senha esta escrita: todas se deduzem. Uma delas mora
-fora do repositorio — Instagram @ceuratos.
-Senhas: letra minuscula, sem acento.
+fora do repositorio 
 
 
 ## Solucao
